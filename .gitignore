@@ -1,0 +1,9 @@
+*.vessel
+*.wasm
+docs/
+*.dfx
+**/declarations/**
+*.DS_Store
+*.mops
+
+node_modules/
